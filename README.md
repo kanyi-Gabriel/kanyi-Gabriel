@@ -11,14 +11,14 @@ I am committed to continuous learning and staying updated with the latest advanc
 ML/AI and Data Science: Exploring the latest trends and advancements in these fields.
 
 
-**Current Learning**
+****Current Learning**:**
 I am currently taking a course in data science that is set to last for the next one and a half years.
 
 **Contact Me**
 
 Email: kanyiegabriel@gmail.com
 
-Fun Fact: I stop when I get to the solution.
+**Fun Fact:** I stop when I get to the solution.
 <!---
 kanyi-Gabriel/kanyi-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
