@@ -1,4 +1,5 @@
 👋 Hi, I'm Kanyi Gabriel
+
 About Me
 I am an undergraduate student pursuing a Bachelor of Science in Electrical and Electronic Engineering. I have a keen interest in Machine Learning (ML), Artificial Intelligence (AI), and Data Science.
 
@@ -12,8 +13,6 @@ I am currently deepening my knowledge and skills in Electrical and Electronic En
 
 Contact Me
 Email: kanyiegabriel@gmail.com
-
-Pronouns: Not_kanyi
 
 Fun Fact: I stop when I get to the solution.
 <!---
