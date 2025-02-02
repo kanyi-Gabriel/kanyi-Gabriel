@@ -1,19 +1,20 @@
 👋 Hi, I'm Kanyi Gabriel
 
 About Me
+I'm an Electrical Engineer with a deep passion for data science and data analysis technology. I thrive on the challenge of working with complex datasets, discovering hidden patterns, and developing robust predictive models. I find immense satisfaction in meticulously cleaning, organizing, and engineering data for meaningful analysis, which ultimately empowers businesses to make data-driven decisions with real-world impact.
 
-I am an undergraduate student pursuing a Bachelor of Science in Electrical and Electronic Engineering. I have a keen interest in Machine Learning (ML), Artificial Intelligence (AI), and Data Science.
+My skill set encompasses exploratory data analysis (EDA), data visualization, and the development of machine learning models using Python. I am always enthusiastic about tackling new challenges, whether it involves optimizing existing models or employing cutting-edge techniques to reveal hidden insights.
 
-Interests
+I am committed to continuous learning and staying updated with the latest advancements in the field of data science. Collaborating with talented individuals and contributing to innovative projects excites me. Moreover, I possess strong communication skills and the ability to engage and inform nontechnical stakeholders about my work, keeping them enthusiastic and well-informed.
 
+**Interests**
 ML/AI and Data Science: Exploring the latest trends and advancements in these fields.
 
-Collaboration: Eager to collaborate on projects related to data science and machine learning.
 
-Current Learning
-I am currently deepening my knowledge and skills in Electrical and Electronic Engineering, with a focus on integrating ML and AI technologies.
+**Current Learning**
+I am currently taking a course in data science that is set to last for the next one and a half years.
 
-Contact Me
+**Contact Me**
 Email: kanyiegabriel@gmail.com
 
 Fun Fact: I stop when I get to the solution.
