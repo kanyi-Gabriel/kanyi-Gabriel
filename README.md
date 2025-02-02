@@ -1,9 +1,11 @@
 👋 Hi, I'm Kanyi Gabriel
 
 About Me
+
 I am an undergraduate student pursuing a Bachelor of Science in Electrical and Electronic Engineering. I have a keen interest in Machine Learning (ML), Artificial Intelligence (AI), and Data Science.
 
 Interests
+
 ML/AI and Data Science: Exploring the latest trends and advancements in these fields.
 
 Collaboration: Eager to collaborate on projects related to data science and machine learning.
