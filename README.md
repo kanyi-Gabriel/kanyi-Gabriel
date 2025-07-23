@@ -9,7 +9,7 @@
 📫 How to reach me - TEL: 071697886 Email: kanyiegabriel@gmail.com
 
 
-**Fun Fact:** I stop when I get to the solution.
+**Fun Fact:** My ancestors came from the mountains — explains why I’m so chill 😂
 <!---
 kanyi-Gabriel/kanyi-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
