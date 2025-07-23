@@ -8,7 +8,6 @@
 
 📫 How to reach me - TEL: 071697886 Email: kanyiegabriel@gmail.com
 
-Connect with me:
 
 **Fun Fact:** I stop when I get to the solution.
 <!---
