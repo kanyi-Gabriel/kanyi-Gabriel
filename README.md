@@ -2,9 +2,9 @@
 
 👀 I’m interested in Data Science machine Learning and Artificial Intelligence
 
-🌱 I’m currently working on Data Structrea and Algorithms
+🌱 I’m currently working on Data Structures and Algorithms
 
-💞️ I’m looking to collaborate with techies in the world of data
+💞️ I’m looking to collaborate with techies in the world of data and Artificial Intelligence
 
 📫 How to reach me - TEL: 071697886 Email: kanyiegabriel@gmail.com
 
