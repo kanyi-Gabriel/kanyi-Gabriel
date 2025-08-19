@@ -35,6 +35,15 @@
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanyi-Gabriel&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyi-Gabriel&layout=compact&theme=radical)  
 ![Streak Stats](https://streak-stats.demolab.com?user=kanyi-Gabriel&theme=radical)
+
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanyi-Gabriel&show_icons=true&theme=dark)
+
+## Contributions
+- **Total Contributions**: 78 (Nov 13, 2022 - Present)
+- **Current Streak**: 0 days (as of Aug 19, 2025)
+- **Longest Streak**: 2 days (Feb 11, 2023 - Feb 12, 2023)
 <!---
 kanyi-Gabriel/kanyi-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
