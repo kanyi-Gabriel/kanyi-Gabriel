@@ -37,8 +37,6 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=kanyi-Gabriel&theme=dark)
 
 
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanyi-Gabriel&show_icons=true&theme=dark)
 
 <!---
 kanyi-Gabriel/kanyi-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
