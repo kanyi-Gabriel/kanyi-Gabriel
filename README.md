@@ -11,6 +11,7 @@
 ⚡Fun Fact: My ancestors are believed to have came from the mountains — explains why I’m so chill 😂
 
 ## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabkanyi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabkanyi/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/https://x.com/GabrielKanyie)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanyiegabriel@gmail.com)  
