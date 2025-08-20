@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate with techies in the world of data and Artificial Intelligence
 
-📫 How to reach me - TEL: 071697886 Email: kanyiegabriel@gmail.com
+📫 How to reach me - TEL: 071697886
 
 ⚡Fun Fact: My ancestors are believed to have came from the mountains — explains why I’m so chill 😂
 
