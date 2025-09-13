@@ -8,7 +8,7 @@
 
 📫 How to reach me - TEL: 071697886
 
-⚡Fun Fact: My ancestors are believed to have came from the mountains — explains why I’m so chill 😂
+⚡Fun Fact: My ancestors are believed to have came from the mountains — explains why I’m so chill 😶
 
 ## 🔗 Connect with Me
 
