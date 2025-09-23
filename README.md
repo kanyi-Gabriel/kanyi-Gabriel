@@ -10,6 +10,20 @@
 
 ⚡Fun Fact: My ancestors are believed to have came from the mountains — explains why I’m so chill 😶
 
+👋 Hi, I’m Gabriel Kanyi  
+
+💡 Passionate about Data Science, Machine Learning, and Artificial Intelligence  
+
+🌱 Currently exploring Data Structures, Algorithms, and Machine Learning projects in Python  
+
+🤝 Open to collaborations on Data Science, ML, and AI projects  
+
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/gabkanyi/)  
+
+⚡ Fun fact: I enjoy learning from the ground up — both in data and in life!
+
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabkanyi/)
