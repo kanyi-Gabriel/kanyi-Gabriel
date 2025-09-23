@@ -1,15 +1,3 @@
-👋 Hi, I’m Gabriel Kanyi
-
-👀 I’m interested in Data Science, machine Learning and Artificial Intelligence
-
-🌱 I’m currently learning Data Structures and Algorithms using Python
-
-💞️ I’m looking to collaborate with techies in the world of data and Artificial Intelligence
-
-📫 How to reach me - TEL: 071697886
-
-⚡Fun Fact: My ancestors are believed to have came from the mountains — explains why I’m so chill 😶
-
 👋 Hi, I’m Gabriel Kanyi  
 
 💡 Passionate about Data Science, Machine Learning, and Artificial Intelligence  
