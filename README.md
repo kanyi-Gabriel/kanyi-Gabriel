@@ -9,14 +9,6 @@ My experience is centered on using Python, SQL, and Power BI to clean, analyze, 
 - 🤝 **What I'm looking for:** I'm open to collaborations on Data Science and Python projects and am actively seeking internship or junior developer roles.
 - 📫 **Reach me:** `kanyiegabriel@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/gabkanyi/).
 
-
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabkanyi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/https://x.com/pixelpulse31)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanyiegabriel@gmail.com) 
-
 ---
 
 
