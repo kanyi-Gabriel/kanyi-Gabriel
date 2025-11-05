@@ -1,14 +1,13 @@
-👋 Hi, I’m Gabriel Kanyi  
+### Hi, I’m Gabriel Kanyi 👋
 
-💡 Passionate about Data Science, Machine Learning, and Artificial Intelligence  
+I'm a Data Analyst and Junior Data Scientist focused on helping businesses turn raw data into actionable insights.
 
-🌱 Currently exploring Data Structures, Algorithms, and Machine Learning projects in Python  
+My experience is centered on using Python, SQL, and Power BI to clean, analyze, and visualize data, but my real passion is building the tools that make this possible. I have hands-on experience developing predictive models (like my [Credit Card Fraud Detector](YOUR-REPO-LINK-HERE)), building full-stack web applications with **Django**, and containerizing them with **Docker**.
 
-🤝 Open to collaborations on Data Science, ML, and AI projects  
-
-📫 Reach me at: [LinkedIn](www.linkedin.com/in/gabkanyi/)  
-
-⚡ Fun fact: I enjoy learning from the ground up — both in data and in life!
+- 📈 **What I do:** Build predictive models, create data-driven web apps, and automate data workflows.
+- 🌱 **What I'm learning:** Always deepening my knowledge of Data Structures, Algorithms, and scalable ML systems.
+- 🤝 **What I'm looking for:** I'm open to collaborations on Data Science and Python projects and am actively seeking internship or junior developer roles.
+- 📫 **Reach me:** `kanyiegabriel@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/gabkanyi/).
 
 
 
@@ -49,43 +48,6 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=kanyi-Gabriel&theme=dark)
 
 
-
-
-### Hi, I’m Gabriel Kanyi 👋
-
-I'm a Data Analyst and Junior Data Scientist focused on helping businesses turn raw data into actionable insights.
-
-My experience is centered on using Python, SQL, and Power BI to clean, analyze, and visualize data, but my real passion is building the tools that make this possible. I have hands-on experience developing predictive models (like my [Credit Card Fraud Detector](YOUR-REPO-LINK-HERE)), building full-stack web applications with **Django**, and containerizing them with **Docker**.
-
-- 📈 **What I do:** Build predictive models, create data-driven web apps, and automate data workflows.
-- 🌱 **What I'm learning:** Always deepening my knowledge of Data Structures, Algorithms, and scalable ML systems.
-- 🤝 **What I'm looking for:** I'm open to collaborations on Data Science and Python projects and am actively seeking internship or junior developer roles.
-- 📫 **Reach me:** `kanyiegabriel@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/gabkanyi/).
-
----
-
-### 🚀 Featured Projects
-
-I believe in learning by building. Here are a few projects I've developed:
-
-1.  **Credit Card Fraud Detection Web App** | [**View Repository**]([LINK-TO-YOUR-REPO])
-    * Developed a full-stack **Django** web application to serve a **Scikit-learn** model that detects fraudulent transactions.
-    * Engineered features from transaction data using **Pandas** and **NumPy**, and handled severe class imbalance using **SMOTE**.
-    * Containerized the entire application using **Docker** for consistent deployment and scalability.
-    * **Technologies:** `Python`, `Django`, `Scikit-learn`, `Pandas`, `Docker`, `HTML/CSS`
-
-2.  **Remote Job Market Analysis (Web Scraping & EDA)** | [**View Repository**]([LINK-TO-YOUR-REPO])
-    * Built an end-to-end project to scrape live job postings from RemoteOK using **Selenium**.
-    * Cleaned, normalized, and structured the raw job data using **Pandas** to identify key trends.
-    * Performed EDA to visualize the most in-demand skills, top hiring companies, and salary distributions.
-    * **Technologies:** `Python`, `Selenium`, `Pandas`, `Matplotlib`, `Seaborn`
-
-3.  **House Price Prediction Model** | [**View Repository**]([LINK-TO-YOUR-REPO])
-    * Trained a Random Forest model with **Scikit-learn** to predict house prices, achieving a 5% mean absolute error on the test set.
-    * Performed Exploratory Data Analysis (EDA) using **Pandas** and **Seaborn** to identify key features.
-    * **Technologies:** `Python`, `Scikit-learn`, `Pandas`, `Seaborn`
-
----
 
 ### 🛠️ Languages and Tools
 
