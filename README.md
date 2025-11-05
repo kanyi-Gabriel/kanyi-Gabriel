@@ -2,7 +2,7 @@
 
 I'm a Data Analyst and Junior Data Scientist focused on helping businesses turn raw data into actionable insights.
 
-My experience is centered on using Python, SQL, and Power BI to clean, analyze, and visualize data, but my real passion is building the tools that make this possible. I have hands-on experience developing predictive models (like my [Credit Card Fraud Detector](YOUR-REPO-LINK-HERE)), building full-stack web applications with **Django**, and containerizing them with **Docker**.
+My experience is centered on using Python, SQL, and Power BI to clean, analyze, and visualize data, but my real passion is building the tools that make this possible. I have hands-on experience developing predictive models (like my [Credit Card Fraud Detector](https://github.com/kanyi-Gabriel/Fraud_detection_django_app)), building full-stack web applications with **Django**, and containerizing them with **Docker**.
 
 - 📈 **What I do:** Build predictive models, create data-driven web apps, and automate data workflows.
 - 🌱 **What I'm learning:** Always deepening my knowledge of Data Structures, Algorithms, and scalable ML systems.
