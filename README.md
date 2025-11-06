@@ -1,14 +1,13 @@
-### Hi, I’m Gabriel Kanyi 👋
+Hi, I’m Gabriel Kanyi 👋
+I'm a Data Scientist specializing in building end-to-end data solutions. I leverage Python, SQL, and machine learning to create predictive models and deploy them as full-stack applications with Django and Docker.
 
-I'm a Data Analyst and Junior Data Scientist focused on helping businesses turn raw data into actionable insights.
+📈 What I do: Develop and deploy machine learning models, build full-stack data applications, and perform in-depth data analysis.
 
-My experience is centered on using Python, SQL, and Power BI to clean, analyze, and visualize data, but my real passion is building the tools that make this possible. I have hands-on experience developing predictive models (like my [Credit Card Fraud Detector](https://github.com/kanyi-Gabriel/Fraud_detection_django_app)), building full-stack web applications with **Django**, and containerizing them with **Docker**.
+🌱 What I'm learning: Continuously advancing my skills in scalable MLOps and complex algorithms.
 
-- 📈 **What I do:** Build predictive models, create data-driven web apps, and automate data workflows.
-- 🌱 **What I'm learning:** Always deepening my knowledge of Data Structures, Algorithms, and scalable ML systems.
-- 🤝 **What I'm looking for:** I'm open to collaborations on Data Science and Python projects and am actively seeking internship or junior developer roles.
-- 📫 **Reach me:** `kanyiegabriel@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/gabkanyi/).
+🤝 What I'm looking for: Open to collaborations on challenging Data Science projects and new professional opportunities.
 
+📫 Reach me: kanyiegabiel@gmail.com or on LinkedIn.
 ---
 
 
