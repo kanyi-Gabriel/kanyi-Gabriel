@@ -12,9 +12,7 @@ My experience is centered on using Python, SQL, and Power BI to clean, analyze, 
 ---
 
 
-### 🛠️ Languages and Tools
-
-My skill set, organized by how I use them. *(Skills from my resume are included here).*
+### 🛠️ Languages and Tool
 
 #### Data Science & Machine Learning
 <p align="left">
