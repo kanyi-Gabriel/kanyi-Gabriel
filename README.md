@@ -1,15 +1,3 @@
-Hi, I’m Gabriel Kanyi 👋
-I'm a Data Scientist specializing in building end-to-end data solutions. I leverage Python, SQL, and machine learning to create predictive models and deploy them as full-stack applications with Django and Docker.
-
-📈 What I do: Develop and deploy machine learning models, build full-stack data applications, and perform in-depth data analysis.
-
-🌱 What I'm learning: Continuously advancing my skills in scalable MLOps and complex algorithms.
-
-🤝 What I'm looking for: Open to collaborations on challenging Data Science projects and new professional opportunities.
-
-📫 **Reach me:** `kanyiegabiel@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/gabkanyi/).
----
-
 ### Hi, I’m Gabriel Kanyi 👋
 
 I'm a **Data Scientist** specializing in building end-to-end data solutions. I leverage **Python**, **SQL**, and **machine learning** to create predictive models and deploy them as full-stack applications with **Django** and **Docker**.
