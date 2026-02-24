@@ -1,6 +1,6 @@
 ### Hi, I’m Gabriel Kanyi 👋
 
-I'm a **Software Engineer** specializing in building end-to-end data solutions. I leverage **Python**, **SQL**, and **machine learning** to create predictive models and deploy them as full-stack applications with **Django** and **Docker**.
+I am a Software & Systems Engineer specializing in the design and deployment of end-to-end intelligent systems. My expertise spans across machine learning, backend architecture, and systems engineering
 
 - 📈 **What I do:** Develop and deploy machine learning models, build full-stack data applications, and perform in-depth data analysis.
 - 🌱 **What I'm learning:** Continuously advancing my skills in scalable MLOps and complex algorithms.
