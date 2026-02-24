@@ -2,9 +2,9 @@
 
 I am a Software & Systems Engineer specializing in the design and deployment of end-to-end intelligent systems. My expertise spans across machine learning, backend architecture, and systems engineering
 
-- 📈 **What I do:** Develop and deploy machine learning models, build full-stack data applications, and perform in-depth data analysis.
-- 🌱 **What I'm learning:** Continuously advancing my skills in scalable MLOps and complex algorithms.
-- 🤝 **What I'm looking for:** Open to collaborations on challenging Data Science projects and new professional opportunities.
+- 📈 **What I do:** Scalable machine learning systems, intelligent backend architectures (Python/Django), and automated deployment pipelines.
+- 🌱 **What I'm learning:** Exploring the edges of MLOps, LLM integration, and high-performance algorithms for real-world applications.
+- 🤝 **What I'm looking for:** Professional opportunities and open-source collaborations where I can tackle complex data architecture and applied AI problems.
 - 📫 **Reach me:** `kanyiegabiel@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/gabkanyi/).
 
 ---
