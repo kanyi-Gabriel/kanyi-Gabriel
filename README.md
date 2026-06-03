@@ -1,6 +1,6 @@
 ### Hi, I’m Gabriel Kanyi 👋
 
-I am a Software & Systems Engineer specializing in the design and deployment of end-to-end intelligent systems. My expertise spans across machine learning, backend architecture, and systems engineering
+I am a Software & Systems Engineer specializing in the design and deployment of end-to-end intelligent systems. My expertise spans across machine learning, backend architecture, and systems engineering.
 
 - 📈 **What I do:** Scalable machine learning systems, intelligent backend architectures (Python/Django), and automated deployment pipelines.
 - 🌱 **What I'm learning:** Exploring the edges of MLOps, LLM integration, and high-performance algorithms for real-world applications.
